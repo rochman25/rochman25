@@ -15,7 +15,7 @@
 </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rochman25)
+![GitHub Activity Graph](https://activity-graph-zaenur.herokuapp.com/graph?username=rochman25&theme=react-dark)
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/zaenurrochman-0b9356167/">LinkedIn</a>
