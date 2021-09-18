@@ -18,5 +18,14 @@
 ![GitHub Activity Graph](https://activity-graph-zaenur.herokuapp.com/graph?username=rochman25&theme=react-dark)
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/zaenurrochman-0b9356167/">LinkedIn</a>
-- <a href="https://www.facebook.com/zaenur.rochman/">Facebook</a>
+
+<table width="100">
+<tr>
+    <td align='center' width="60">
+        <a href="https://www.facebook.com/zaenur.rochman/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="60"></a>
+    </td>
+    <td align='center' width="60">
+        <a href="https://www.linkedin.com/in/zaenurrochman-0b9356167/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
+    </td>
+</tr>
+</table>
