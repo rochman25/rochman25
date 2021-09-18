@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as Web developer
 - 🌱 I’m currently learning Node.JS, and React.js
 - 👯 I’m looking to collaborate on Node.JS Project
