@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 </a>
 </p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rochman25)
+
 ### Reach me on
 - <a href="https://www.linkedin.com/in/zaenurrochman-0b9356167/">LinkedIn</a>
 - <a href="https://www.facebook.com/zaenur.rochman/">Facebook</a>
