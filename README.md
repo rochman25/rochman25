@@ -14,8 +14,6 @@
 </a>
 </p>
 
-![GitHub Activity Graph](https://activity-graph-zaenur.herokuapp.com/graph?username=rochman25&theme=react-dark)
-
 ### Reach me on
 
 <table width="100">
