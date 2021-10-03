@@ -11,7 +11,6 @@
 <p align="left">
 <a href="https://github.com/rochman25">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochman25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rochman25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 </p>
 
