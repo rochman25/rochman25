@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Web developer
-- 🌱 I’m currently learning Node.JS, and React.js
-- 👯 I’m looking to collaborate on Node.JS Project
+- 🔭 I’m currently working as Fullstack developer
+- 🌱 I’m currently learning Node.JS, React.js and Kotlin
+- 👯 I’m looking to collaborate on Node.JS and Kotlin Project
 - 📫 How to reach me: zaenur.rochman98@gmail.com
 - 😄 Pronouns: He/Him
 
