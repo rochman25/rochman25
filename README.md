@@ -14,16 +14,3 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rochman25&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
-
-### Reach me on
-
-<table width="100">
-<tr>
-    <td align='center' width="60">
-        <a href="https://www.facebook.com/zaenur.rochman/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384053.png" width="60"></a>
-    </td>
-    <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/zaenurrochman-0b9356167/"><img src="https://image.flaticon.com/icons/svg/2111/2111465.svg" width="60"></a>
-    </td>
-</tr>
-</table>
