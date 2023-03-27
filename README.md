@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working as Backend developer
 - 🌱 I’m currently learning Node.JS,Golang and Kotlin
-- 👯 I’m looking to collaborate on Node.JS and Kotlin Project
+- 👯 I’m looking to collaborate on Node.JS , Golang and Kotlin Project
 - 📫 How to reach me: zaenur.rochman98@gmail.com
 - 😄 Pronouns: He/Him
 
