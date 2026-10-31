@@ -1,13 +1,24 @@
-### Hi there 👋
+# Hi, I'm Zaenurrochman 👋
 
-- 🔭 I’m currently working as Backend developer
-- 👯 I’m looking to collaborate on Node.JS , Golang and Kotlin Project
-- 📫 How to reach me: zaenur.rochman98@gmail.com
+**Backend Engineer — Go, distributed systems & third-party API integrations**
 
+I build backend systems that keep working when dependencies don't —
+fault-tolerant, resumable services, async processing, and clean API design.
 
-### Github Statistic
-<p align="left">
-<a href="https://github.com/rochman25">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rochman25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+- 🌐 Portfolio: https://rochman25.vercel.app
+- 💼 LinkedIn: https://www.linkedin.com/in/zaenurrochman
+- 📫 Email: zaenur.rochman98@gmail.com
+
+## What I focus on
+
+- Backend development in Go
+- Distributed systems & microservices
+- API design and integrations — WhatsApp Business Platform, Meta Marketing & Ads APIs
+- Async processing, queues & caching — RabbitMQ, Redis
+- Performance, database design & refactoring core services
+
+## Stack
+
+**Go · PHP · RabbitMQ · Redis · REST API · Microservices**
+**PostgreSQL · MySQL · MariaDB · MongoDB · ClickHouse**
+**Docker · Git · ETL Pipelines**
